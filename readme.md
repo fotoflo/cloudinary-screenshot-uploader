@@ -1,4 +1,4 @@
-# SCREENSHOT UPLOADER
+# CLOUDINARY SCREENSHOT UPLOADER
 
 Simple tool for mac to 
  - monitor a folder for screenshots,
