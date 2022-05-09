@@ -1,7 +1,7 @@
 require('dotenv').config()
 
 const config = {
-  homeDir: '/Users/fotoflo/screenshots',
+  homeDir: CLOUDINARY_HOME_DIR,
   cloudinary: { 
     cloud_name: process.env.CLOUDINARY_CLOUD_NAME, 
     api_key: process.env.CLOUDINARY_API_KEY, 
